@@ -1,4 +1,4 @@
-# Mailboxlayer Plugin (Beta)
+# Mailboxlayer Plugin
 
 Get email scores for users using the Mailboxlayer API and add them to PostHog user profiles. Suggested fixes will also be added if available.
 
@@ -7,10 +7,9 @@ Get email scores for users using the Mailboxlayer API and add them to PostHog us
 ## Installation
 
 1. Visit 'Project Plugins' under 'Settings'
-2. Enable plugins if you haven't already done so
-3. Click '+ Install new plugin'
-4. Type in a name for the plugin under 'Write The Code' and click 'Start Coding'
-5. When the editor opens, paste the contents of the `plugin.js` file under 'Source Code' and the contents of `config.json` under 'Config Schema JSON'
-6. Hit 'Save' and the configuration options will appear for you to fill in
-7. Fill in the configuration options and hit 'Save' again
-8. Enable your plugin and you're good to go!
+1. Enable plugins if you haven't already done so
+1. Sign up to [Mailboxlayer](https://mailboxlayer.com/)
+1. Get an API key from Mailboxlayer
+1. Click '+ Install new plugin' and use this URL to install: `https://github.com/PostHog/mailboxlayer-plugin`
+1. Add the API key to the plugin config
+1. Enable the plugin and watch the email scores come in!
