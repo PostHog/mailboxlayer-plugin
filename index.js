@@ -56,3 +56,8 @@ function getEmailFromIdentifyEvent(event) {
         ? event['$set']['email']
         : ''
 }
+
+module.exports = {
+    setupPlugin,
+    processEventBatch
+}
