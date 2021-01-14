@@ -8,6 +8,8 @@ Get email scores for users using the Mailboxlayer API and add them to PostHog us
 
 1. Visit 'Project Plugins' under 'Settings'
 1. Enable plugins if you haven't already done so
+1. Click the 'Available' tab next to 'Installed'
+1. Click 'Install' on this plugin
 1. Sign up to [Mailboxlayer](https://mailboxlayer.com/)
 1. Get an API key from Mailboxlayer
 1. Click '+ Install new plugin' and use this URL to install: `https://github.com/PostHog/mailboxlayer-plugin`
