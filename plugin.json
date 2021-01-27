@@ -1,16 +1,16 @@
 {
-    "name": "mailboxlayer-plugin",
+    "name": "Email Scoring",
     "url": "https://github.com/PostHog/mailboxlayer-plugin",
     "description": "Get email scores for PostHog users using the Mailboxlayer API.",
     "main": "index.js",
-    "config": {
-        "mailboxlayerApiKey": {
+    "config": [
+        {
+            "key": "mailboxlayerApiKey",
             "hint": "",
             "name": "Mailboxlayer API Key",
             "type": "string",
-            "order": 1,
             "default": "",
             "required": true
         }
-    }
+    ]
 }
