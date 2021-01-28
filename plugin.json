@@ -10,7 +10,8 @@
             "name": "Mailboxlayer API Key",
             "type": "string",
             "default": "",
-            "required": true
+            "required": true,
+            "secret": true
         }
     ]
 }
