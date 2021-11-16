@@ -2,7 +2,7 @@
 
 Get email scores for users using the Mailboxlayer API and add them to PostHog user profiles. Suggested fixes will also be added if available.
 
-![](readme-assets/email-validation.png)
+![](https://github.com/PostHog/mailboxlayer-plugin/raw/main/readme-assets/email-validation.png)
 
 ## Installation
 
