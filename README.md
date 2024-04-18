@@ -1,6 +1,6 @@
 # Email Scoring (Mailboxlayer) Plugin
 
-This plugin is deprecated, it will be skipped in `process_persons=false` mode.
+This plugin is deprecated.
 
 Get email scores for users using the Mailboxlayer API and add them to PostHog user profiles. Suggested fixes will also be added if available.
 
