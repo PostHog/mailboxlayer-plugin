@@ -1,7 +1,7 @@
 {
     "name": "Email Scoring",
     "url": "https://github.com/PostHog/mailboxlayer-plugin",
-    "description": "Deprecated, will be skipped if process_person=false",
+    "description": "Deprecated",
     "main": "index.js",
     "config": [
         {
